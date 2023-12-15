@@ -82,3 +82,11 @@ button {
     background-color: bisque;
     box-shadow: 1px 1px 1px 1px;
 }
+
+footer {
+    margin-left: 980px;
+    margin-top: 10px;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
